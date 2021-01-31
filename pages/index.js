@@ -35,7 +35,7 @@ export default function Home() {
           <Widget.Content>
             <p>Teste</p>
           </Widget.Content>
-        </Widget>
+        </Widget> 
 
         <Widget>
           <Widget.Content>
