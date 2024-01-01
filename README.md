@@ -5,7 +5,7 @@
 </p>
 
 # :pushpin: Sobre do projeto
-- `Observação` Projeto desenvolvido durante a 3ª edição da Imersão React promovida pela Alura do ano 2021
+- `Observação` Projeto desenvolvido durante a 2ª edição da Imersão React promovida pela Alura do ano 2021
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` XXXXX
