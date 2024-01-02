@@ -1,8 +1,8 @@
-<h1>Alura Quiz Virus</h1>
-
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
+
+<h1>Alura Quiz Virus</h1>
 
 # :pushpin: Sobre do projeto
 - `Observação` Projeto desenvolvido durante a 2ª edição da Imersão React promovida pela Alura do ano 2021
