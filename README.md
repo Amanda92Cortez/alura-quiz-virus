@@ -1,14 +1,20 @@
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Alura Quiz Virus</h1>
+<h1>Quiz Virus - Alrua</h1>
+
+# :pushpin: Formações
+- `Imersão ` 2° Edição React
+
+# :pushpin: Cursos
+- `Curso ` Aula sobre React
 
 # :pushpin: Sobre do projeto
-- `Observação` Projeto desenvolvido durante a 2ª edição da Imersão React promovida pela Alura do ano 2021
+- `Observação ` Projeto desenvolvido durante a 2ª edição da Imersão React promovida pela Alura do ano 2021
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` XXXXX
+- `Funcionalidade ` Para saber conhecimento das perguntas
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +24,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/alura-quiz-virus.git
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-quiz-virus.git
+- `Restante `
 
 ## 📚Telas/Vídeos
 IMAGEM/VIDEO
